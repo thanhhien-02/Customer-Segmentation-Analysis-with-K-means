@@ -1,1 +1,1 @@
-- Data Science in Economics and Businesses Students at National Economics University
+- Hii, I am a Data Science in Economics and Businesses Students at National Economics University
