@@ -1,1 +1,1 @@
-# my_projects
+- Data Science in Economics and Businesses Students at National Economics University
